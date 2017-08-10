@@ -1,5 +1,7 @@
 ;;; dired-sequence.el --- Handle files that are named in a sequential manner in dired
 
+;; License: GPL-3+
+
 ;;; Commentary:
 ;; 
 
